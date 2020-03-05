@@ -32,4 +32,22 @@ In the first argument you put a file with a 2D array, of the following form:
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 ```
 
-Where the numbers (in the range Max or Min ints) are the heights of the points
+Where the numbers (in the range Max or Min ints) are the heights of the points.
+
+If desired, you can specify the color of each of the points in the following format:
+
+```
+0  0  0  0  0  0  0  0  0  0
+0 10 10 10 10 10 10 10 10  0
+0 10 20,0xFF0000 15,0xFF0000 12 15,0xFF0000 17,0xFF0000 20,0xFF0000 10  0
+0 10 15,0xFF0000 10 12 15,0xFF0000 15,0xFF0000 15,0xFF0000 10  0
+0  5 15,0xFF0000 10 12 15,0xFF0000 15,0xFF0000 13 10  0
+0  5 10  5  7 12 12 12 10  0
+0  5  7  1  2  7  5  5  7  0
+0  3  0  0  1  2  2  2  5  0
+0  1  0  0  0  0  0  0  3  0
+0  0  0  0  0  0  0  0  0  0
+```
+![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.39.56%20PM.png)
+Where you need to put color after the height: 
+`15,0xFF0000`

@@ -14,9 +14,9 @@ A simple 3D height-map render. You can rotate, move, and zoom models, color is d
 
 To start work with project you need to choose what map you want to open:
 
-'./fdf test_maps/42.fdf'
+`./fdf test_maps/42.fdf`
 
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+`0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
 0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
@@ -26,4 +26,4 @@ To start work with project you need to choose what map you want to open:
 0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
 0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0`

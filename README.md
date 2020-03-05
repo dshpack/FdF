@@ -18,7 +18,7 @@ To get started with a project, you need to choose which map to open:
 
 In the first argument you put a file with a 2D array, of the following form:
 
-`0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+[]`0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
 0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0

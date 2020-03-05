@@ -51,3 +51,5 @@ If desired, you can specify the color of each of the points in the following for
 ![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.39.56%20PM.png)
 Where you need to put color after the height: 
 `15,0xFF0000`
+
+The project works only with the correct maps. This means that the file must specify heights in the minimum-maximum ints, the color should be specified in hexadecimal number after ``` ,0x ```, and you must specify at least 2x2 or 

@@ -67,6 +67,12 @@ Here you will see a list of the full functionality of the program, and all neede
 ![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.37.07%20PM.png)
 
 #### Waymark
-It would like to say separately for such functionality as a calling Waymark. This feature is added as additional location information about your map in three-dimensional space шin X, Y, Z -axis.
+It would like to say separately for such functionality as a calling Waymark. This feature is added as additional location information about your map in three-dimensional space in X, Y, Z -axis.
 ![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.34.24%20PM.png)
 ![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.35.42%20PM.png)
+
+#### Other pictures
+![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%207.59.53%20PM.png)
+![Image alt]()
+![Image alt]()
+![Image alt]()

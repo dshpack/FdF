@@ -52,4 +52,7 @@ If desired, you can specify the color of each of the points in the following for
 Where you need to put color after the height: 
 `15,0xFF0000`
 
-The project works only with the correct maps. This means that the file must specify heights in the minimum-maximum ints, the color should be specified in hexadecimal number after ``` ,0x ``` and you must specify at least 2x2 or 
+The project works only with the correct maps. This means that the file must specify heights in the minimum-maximum ints, the color should be specified in hexadecimal number (the letters can be upper or lower case) after ``` ,0x ``` and you must specify at least 2x2 map size.
+
+You can also place a window size as second argument in the range of 450 to 2560 wide and 200 to 1400 pixels high. If you didn't do it, the screen size will be set in default value: width 1920 and height 1080.
+``` "-w500 -h500 ```

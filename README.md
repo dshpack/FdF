@@ -84,4 +84,3 @@ It would like to say separately for such functionality as a calling Waymark. Thi
 ![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.43.32%20PM.png)
 ![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.44.54%20PM.png)
 ![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.45.05%20PM.png)
-![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.45.39%20PM.png)

@@ -12,6 +12,7 @@ A simple 3D height-map render. You can rotate, move, and zoom models, color is d
 + Double-buffered
 + Line clipping
 
+#### How to start project
 To get started with a project, you need to choose which map to open:
 
 `./fdf test_maps/42.fdf`
@@ -58,3 +59,8 @@ You can also specify a window size as a second argument in the range of 450 to 2
 ```
 "-w500 -h500" 
 ```
+
+#### Menu
+For convenience, the program has a drop-down menu, which will be called by the hotkey `"m"`
+![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.34.24%20PM.png)
+![Image alt](https://github.com/dshpack/FdF/blob/master/images/Screen%20Shot%202020-03-05%20at%208.35.42%20PM.png)
